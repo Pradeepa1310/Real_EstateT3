@@ -215,8 +215,6 @@ pip install pandas numpy matplotlib scikit-learn plotly folium umap-learn
 
 <img width="844" height="547" alt="image" src="https://github.com/user-attachments/assets/3bc7de8c-da01-4b88-8a70-5bc156615838" />
 
-<img width="844" height="547" alt="image" src="https://github.com/user-attachments/assets/8ec1a079-c61f-48d8-89b3-b0e282417510" />
-
 ---
 
 ## Applications
